@@ -348,7 +348,7 @@ button {
 }
 
 .card {
-  padding: 30px 59px;
+  padding: 30px;
 }
 
 .card .title {
@@ -519,8 +519,9 @@ button {
 .title-footer {
   margin-bottom: 20px;
 
+  font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--hero-color);
